@@ -14,8 +14,8 @@ If you want to run this code for your own image then you need to place the addre
 
 Running the code will also save output image named as `New_Image.jpg`.
 
-### Bicubic-Interpolation with different scaling:
+### Bicubic-Interpolation with Different Scaling:
 ![image text](https://github.com/Mubashir-ul-Islam/Bicubic-Interpolation/blob/master/media/Comparison_of_Resolution.jpg)
 
-### Scaling Comparison:
+### Scaling Size Comparison:
 ![image text](https://github.com/Mubashir-ul-Islam/Bicubic-Interpolation/blob/master/media/Scaling.jpg)
