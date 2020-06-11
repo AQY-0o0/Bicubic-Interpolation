@@ -18,4 +18,4 @@ Running the code will also save output image named as `New_Image.jpg`.
 ![image text](https://github.com/Mubashir-ul-Islam/Bicubic-Interpolation/blob/master/media/Comparison_of_Resolution.jpg)
 
 ### Scaling Size Comparison:
-![image text](https://github.com/Mubashir-ul-Islam/Bicubic-Interpolation/blob/master/media/Scaling.jpg)
+![image text](https://github.com/Mubashir-ul-Islam/Bicubic-Interpolation/blob/master/media/Scaling1.jpg)
